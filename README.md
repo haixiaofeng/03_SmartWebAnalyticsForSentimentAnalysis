@@ -3,7 +3,9 @@
 </br>
 
 #### Code & Files
+- [sentimentModel.ipynb](https://colab.research.google.com/drive/1KFYRvok-gteRPb38IKTWJHd-ys0lGyAk?usp=sharing)
 - [toxicityModel.ipynb](https://colab.research.google.com/drive/1nlEXM98zrhmSnCb8nAnKkUYO61EgFOOp?usp=sharing)
+- [data folder](https://drive.google.com/drive/folders/1cBBcg_C4R-EWTHd-2j5kddEJD5Oo7ntA?usp=sharing)
 </br>
 
 #### Motivation
@@ -14,6 +16,8 @@ This project attempts to provide a solution to the problem statement using _Natu
 
 #### Version History
 - Version 1: Implements barebone text sentiment analysis using an appropriate pre-trained model
+- Version 2: Preprocesses data for training
+- Version 3: Constructs and trains (locally) a _Artificial Neural Network (ANN)_ for text toxicity classification
 </br>
 
 #### Data
@@ -32,8 +36,6 @@ TBI...
 </br>
 
 #### Future Versions
-- Version 2: Preprocesses data for training
-- Version 3: Constructs and trains (locally) a _Artificial Neural Network (ANN)_ for text toxicity classification
 - Version 4: Implements automated scrapper for obtaining customer reviews on **all** pages for a given business listed on _Yelp.com_
 - Version 5: Combines previous versions (scopes) and performs appropriate analysis to produce relevant and useful information
 - Version 6: Produces visualizations for the given analysis/information
