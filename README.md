@@ -5,7 +5,7 @@
 #### Code & Files
 - [sentimentModel.ipynb](https://colab.research.google.com/drive/1KFYRvok-gteRPb38IKTWJHd-ys0lGyAk?usp=sharing)
 - [toxicityModel.ipynb](https://colab.research.google.com/drive/1nlEXM98zrhmSnCb8nAnKkUYO61EgFOOp?usp=sharing)
-- [data.csv](https://drive.google.com/drive/folders/1cBBcg_C4R-EWTHd-2j5kddEJD5Oo7ntA?usp=sharing)
+- [data.csv](https://drive.google.com/file/d/1vgwRVNZSM88vbKsPFXNh8qf3dgMgU7Go/view?usp=sharing)
 </br>
 
 #### Motivation
