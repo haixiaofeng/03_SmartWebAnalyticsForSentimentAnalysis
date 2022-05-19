@@ -2,24 +2,34 @@
 </br>
 
 #### Motivation
+Small(er) businesses may often experiment with new product/service lines or new variations of existing products/services but lack the means to better understand the correlation between these changes/innovations and customer sentiment. For example, a resturant owner releases a new dish, but as exciting as it is, the owner themselves may be anxious about how much the average customer actually likes the new release. Owners may also want to better understand  correlations between more extreme/negative sentiments with aspects of the business should toxic comments appears.
+This project attempts to provide a solution to these problem statements using _Natural Language Processing (NLP)_ techniques/technologies and online reviews from _(Yelp.com)_. It implements a pipeline for efficient use to get relevant and useful information, i.e. percentage of positive comments.
+</br>
+</br>
 
 #### Version History
-- Version 1: Implements barebone text sentiment analysis using the _Bidirectional Encoder Representations from Transformers (BERT)_ model from _Hugging Face_
-- Version 2: Constructs and trains (locally) a Neural Network for text toxicity classification
+- Version 1: Implements barebone text sentiment analysis using an appropriate pre-trained model
+</br>
 
 #### Data
-large number of Wikipedia comments that have been labeled by human raters for toxicity, rovided by the _Jigsaw_ company.
+Large number of Wikipedia comments labeled by human raters for toxicity, provided by the _Jigsaw_ company.
+</br>
 </br>
 
 #### Algorithms
-TBI...
+- _Bidirectional Encoder Representations from Transformers (BERT)_ from _Hugging Face_
+- _Convolutional Neural Network (CNN)_ (built & train using TensorFlow dependencies)
 </br>
 
 #### Current Results
+TBI...
+</br>
 </br>
 
-Future Versions
-- Version 3: Implements automated scrapper for obtaining customer reviews on **all** pages for a given business listed on _Yelp.com_
-- Version 4: Combines previous versions (scopes) and performs appropriate analysis to produce useful information (i.e. % of toxic comments)
-- Version 5: Produces visualizations for the given analysis/information
-- Version 6: Implement deployment pipeline using <>
+#### Future Versions
+- Version 2: Preprocesses data for training
+- Version 3: Constructs and trains (locally) a _Artificial Neural Network (ANN)_ for text toxicity classification
+- Version 4: Implements automated scrapper for obtaining customer reviews on **all** pages for a given business listed on _Yelp.com_
+- Version 5: Combines previous versions (scopes) and performs appropriate analysis to produce relevant and useful information
+- Version 6: Produces visualizations for the given analysis/information
+- Version 7: Implement deployment pipeline using <>
