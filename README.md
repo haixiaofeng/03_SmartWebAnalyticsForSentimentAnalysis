@@ -3,7 +3,7 @@
 </br>
 
 #### Code & Files
-- [sentimentModel.ipynb](https://colab.research.google.com/drive/1KFYRvok-gteRPb38IKTWJHd-ys0lGyAk?usp=sharing)
+- [main.ipynb](https://colab.research.google.com/drive/1KFYRvok-gteRPb38IKTWJHd-ys0lGyAk?usp=sharing)
 - [toxicityModel.ipynb](https://colab.research.google.com/drive/1nlEXM98zrhmSnCb8nAnKkUYO61EgFOOp?usp=sharing)
 - [data.csv](https://drive.google.com/file/d/1vgwRVNZSM88vbKsPFXNh8qf3dgMgU7Go/view?usp=sharing)
 </br>
@@ -37,4 +37,4 @@ TBI...
 
 #### Future Versions
 - Version 4: Combines previous versions (scopes) and performs appropriate analysis to produce relevant and useful information and visualizations
-- Version 6: Implement deployment pipeline
+- Version 5: Implement deployment pipeline
