@@ -15,9 +15,9 @@ This project attempts to provide a solution to the problem statement using _Natu
 </br>
 
 #### Version History
-- Version 1: Implements barebone text sentiment analysis using an appropriate pre-trained model
-- Version 2: Preprocesses data for training
-- Version 3: Constructs and trains (locally) a _Artificial Neural Network (ANN)_ for text toxicity classification
+- Version 1: Implements barebone text sentiment analysis using the BERT model from Hugging Face
+- Version 2: Implements scrapper for scrapping reviews (on all pages) for a given business listed on _Yelp.com_. Also performs data preprocesses when appropriate
+- Version 3: Constructs and trains (locally) a Deep Neural Network (see code file for details) for text toxicity classification
 </br>
 
 #### Data
@@ -36,7 +36,5 @@ TBI...
 </br>
 
 #### Future Versions
-- Version 4: Implements automated scrapper for obtaining customer reviews on **all** pages for a given business listed on _Yelp.com_
-- Version 5: Combines previous versions (scopes) and performs appropriate analysis to produce relevant and useful information
-- Version 6: Produces visualizations for the given analysis/information
-- Version 7: Implement deployment pipeline using <>
+- Version 4: Combines previous versions (scopes) and performs appropriate analysis to produce relevant and useful information and visualizations
+- Version 6: Implement deployment pipeline
