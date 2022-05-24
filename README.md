@@ -1,4 +1,4 @@
-### Web-Analytics For Text Sentiment Analysis And Toxicity Classification
+### Web-Analytics For Text Sentiment Analysis And Toxicity Classification (WAST)
 </br>
 </br>
 
