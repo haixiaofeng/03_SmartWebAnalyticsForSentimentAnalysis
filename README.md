@@ -31,7 +31,7 @@ Large number of Wikipedia comments labeled by human raters for toxicity, provide
 </br>
 
 #### Current Results
-TBI...
+Pending...
 </br>
 </br>
 
