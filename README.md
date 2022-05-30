@@ -7,12 +7,14 @@
 - [toxicityModel.ipynb](https://colab.research.google.com/drive/1nlEXM98zrhmSnCb8nAnKkUYO61EgFOOp?usp=sharing)
 - [data.csv](https://drive.google.com/file/d/1vgwRVNZSM88vbKsPFXNh8qf3dgMgU7Go/view?usp=sharing)
 </br>
+<br/>
 
 #### Motivation
 Small(er) businesses may often experiment with new product/service lines or new variations of existing products/services but lack the means to better understand the association (and potential correlation) between these changes/innovations and customer sentiment. For example, a resturant owner releases a new dish, but as exciting as it is, the owner themselves may be anxious about how much the average customer actually likes the new release. Owners may also want to better understand  associations between more extreme/negative sentiments with aspects of the business should toxic comments appears.
 This project attempts to provide a solution to the problem statement using _Natural Language Processing (NLP)_ techniques/technologies and online reviews from _(Yelp.com)_. It implements a pipeline for efficient use to get relevant and useful information, i.e. percentage of positive comments.
 </br>
 </br>
+<br/>
 
 #### Version History
 - Version 1: Implements barebone text sentiment analysis using the BERT model from Hugging Face
@@ -24,6 +26,7 @@ This project attempts to provide a solution to the problem statement using _Natu
 Large number of Wikipedia comments labeled by human raters for toxicity, provided by the _Jigsaw_ company.
 </br>
 </br>
+<br/>
 
 #### Algorithms
 - _Bidirectional Encoder Representations from Transformers (BERT)_ from _Hugging Face_
