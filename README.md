@@ -30,11 +30,6 @@ Large number of Wikipedia comments labeled by human raters for toxicity, provide
 - _Convolutional Neural Network (CNN)_ (built & train using TensorFlow dependencies)
 </br>
 
-#### Current Results
-Pending...
-</br>
-</br>
-
 #### Future Versions
 - Version 4: Combines previous versions (scopes) and performs appropriate analysis to produce relevant and useful information and visualizations
 - Version 5: Implement deployment pipeline
