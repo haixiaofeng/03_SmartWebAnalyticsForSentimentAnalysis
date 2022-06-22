@@ -1,4 +1,6 @@
-### Web-Analytics For Text Sentiment Analysis And Toxicity Classification (WAST)
+</br>
+
+### WebR: Web-Analytics For Sentiment Analysis of Online Reviews
 </br>
 </br>
 
@@ -16,12 +18,6 @@ This project attempts to provide a solution to the problem statement using _Natu
 </br>
 <br/>
 
-#### Version History
-- Version 1: Implements barebone text sentiment analysis using the BERT model from Hugging Face
-- Version 2: Implements scrapper for scrapping reviews (on all pages) for a given business listed on _Yelp.com_. Also performs data preprocesses when appropriate
-- Version 3: Constructs and trains (locally) a Deep Neural Network (see code file for details) for text toxicity classification
-</br>
-
 #### Data
 Large number of Wikipedia comments labeled by human raters for toxicity, provided by the _Jigsaw_ company.
 </br>
@@ -32,6 +28,16 @@ Large number of Wikipedia comments labeled by human raters for toxicity, provide
 - _Bidirectional Encoder Representations from Transformers (BERT)_ from _Hugging Face_
 - _Convolutional Neural Network (CNN)_ (built & train using TensorFlow dependencies)
 </br>
+
+
+--
+
+</br>
+
+#### Version History
+- Version 1: Implements barebone text sentiment analysis using the BERT model from Hugging Face
+- Version 2: Implements scrapper for scrapping reviews (on all pages) for a given business listed on _Yelp.com_. Also performs data preprocesses when appropriate
+- Version 3: Constructs and trains (locally) a Deep Neural Network (see code file for details) for text toxicity classification
 
 #### Future Versions
 - Version 4: Combines previous versions (scopes) and performs appropriate analysis to produce relevant and useful information and visualizations
