@@ -1,6 +1,6 @@
 </br>
 
-### WebR: Web-Analytics For Sentiment Analysis of Online Reviews
+### WebR: Web-Analytics For Review Sentiment Analysis
 </br>
 </br>
 
