@@ -4,9 +4,11 @@
 </br>
 </br>
 
+
+Please visit the [project portfolio]() for full details :D
+
 #### Code & Files
-- [main.ipynb](https://colab.research.google.com/drive/1KFYRvok-gteRPb38IKTWJHd-ys0lGyAk?usp=sharing)
-- [toxicityModel.ipynb](https://colab.research.google.com/drive/1nlEXM98zrhmSnCb8nAnKkUYO61EgFOOp?usp=sharing)
+- [bindOI.ipynb](https://colab.research.google.com/drive/1KFYRvok-gteRPb38IKTWJHd-ys0lGyAk?usp=sharing)
 - [data](https://drive.google.com/drive/folders/1uGhbZyfKcHRjALYVkDdJGdzI7j3rpMaS?usp=sharing)
 </br>
 <br/>
