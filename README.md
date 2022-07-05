@@ -1,17 +1,24 @@
 </br>
 
-### WebR: Web-Analytics For Review Sentiment Analysis
+### WebR:
+#### Web-Analytics For Review Sentiment Analysis
 </br>
 </br>
 
 
-Please visit the [project portfolio]() for full details :D
-
-#### Code & Files
-- [bindOI.ipynb](https://colab.research.google.com/drive/1KFYRvok-gteRPb38IKTWJHd-ys0lGyAk?usp=sharing)
-- [data](https://drive.google.com/drive/folders/1uGhbZyfKcHRjALYVkDdJGdzI7j3rpMaS?usp=sharing)
+#### Code
+- [webr.ipynb]()
 </br>
-<br/>
+</br>
+
+Please visit the [project portfolio]() for details (hosted via _wix.com_)
+</br>
+</br>
+
+
+
+
+
 
 #### Motivation
 Small(er) businesses may often experiment with new product/service lines or new variations of existing products/services but lack the means to better understand the association (and potential correlation) between these changes/innovations and customer sentiment. For example, a resturant owner releases a new dish, but as exciting as it is, the owner themselves may be anxious about how much the average customer actually likes the new release. Owners may also want to better understand  associations between more extreme/negative sentiments with aspects of the business should toxic comments appears.
