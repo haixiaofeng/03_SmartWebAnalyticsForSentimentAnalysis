@@ -1,7 +1,7 @@
 </br>
 
 ### WebR:
-#### Web-Analytics For Review Sentiment Analysis
+#### Smart Web-Analytics For Sentiment Analysis
 </br>
 </br>
 
@@ -11,6 +11,6 @@
 </br>
 </br>
 
-Please visit the [project portfolio]() for details (hosted via _wix.com_)
+Please visit the [project portfolio](https://haixiaofengcareer.wixsite.com/projects) for details (hosted via _wix.com_)
 </br>
 </br>
